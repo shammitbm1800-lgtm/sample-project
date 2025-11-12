@@ -8,3 +8,4 @@
 
 ```bash
 echo "Hello, world!"
+- Added project goals
