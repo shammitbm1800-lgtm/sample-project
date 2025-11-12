@@ -9,3 +9,4 @@
 ```bash
 echo "Hello, world!"
 - Added project goals
+- Improved navigation links
